@@ -3,7 +3,8 @@
     "mappings": "",
     "sources": [
         "../sass/main.scss",
-        "../sass/_base.scss"
+        "../sass/_base.scss",
+        "../sass/_component.scss"
     ],
     "names": [],
     "file": "main.css"
