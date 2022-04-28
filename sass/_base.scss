@@ -1,5 +1,5 @@
 /////////////////////////////////////////
-//PRIMARY COLORS
+// PRIMARY COLORS
 $color-primary-soft-red: hsl(7, 99%, 70%);
 $color-primary-yellow: hsl(51, 100%, 49%);
 $color-primary-dark-desaturated-cyan: hsl(167, 40%, 24%);
@@ -9,7 +9,7 @@ $color-primary-blue: hsl(193, 90%, 70%);
 $color-primary-dark-moderate-cyan: hsl(166, 53%, 69%);
 
 /////////////////////////////////////////
-//SECONDARY COLORS
+// SECONDARY COLORS
 $color-neutral-very-dark-desaturated-blue: hsl(212, 27%, 19%);
 $color-neutral-very-dark-grayish-blue: hsl(213, 9%, 39%);
 $color-neutral-dark-grayish-blue: hsl(232, 10%, 55%);
@@ -17,6 +17,12 @@ $color-neutral-grayish-blue: hsl(210, 4%, 67%);
 $color-neutral-white: hsl(0, 0%, 100%);
 
 /////////////////////////////////////////
-//FONT VARIABLES
+// FONT VARIABLES
 $font-primary: "Barlow", sans-serif;
 $font-display: "Fraunces", sans-serif;
+
+/////////////////////////////////////////
+// UNIVERSAL RESET
+*,
+*::before,
+*::after
