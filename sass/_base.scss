@@ -25,4 +25,6 @@ $font-display: "Fraunces", sans-serif;
 // UNIVERSAL RESET
 *,
 *::before,
-*::after
+*::after {
+    margin: 0;
+}
