@@ -31,3 +31,7 @@ $font-display: "Fraunces", sans-serif;
     box-sizing: inherit;
     border: 0;
 }
+
+html {
+    box-sizing: border-box;
+}
