@@ -20,6 +20,10 @@ body {
   line-height: 1.6;
 }
 
+.header {
+  height: 95vh;
+}
+
 .logo {
   height: 3.2rem;
   margin-right: auto;
