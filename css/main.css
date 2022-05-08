@@ -26,6 +26,12 @@ body {
   padding-top: 4rem;
 }
 
+.header__content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 .logo {
   height: 3.2rem;
   margin-right: auto;
