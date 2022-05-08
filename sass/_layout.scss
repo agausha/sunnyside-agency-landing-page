@@ -9,5 +9,9 @@
 ///////////////////////////////////////////
 //NAVIGATION
 .navbar {
-  
+  display: flex;
+
+  &__item, &__link {
+    
+  }
 }
