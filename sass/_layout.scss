@@ -28,6 +28,7 @@
     border: none;
     border-radius: 5rem;
     cursor: pointer;
+    transition: all 0.2s ease;
 
     &:hover {
       background: $color-primary-blue;
