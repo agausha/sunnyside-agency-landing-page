@@ -49,4 +49,8 @@ body {
   border-radius: 5rem;
   cursor: pointer;
 }
+
+.navbar__link--btn:hover {
+  background: #6edaf7;
+}
 /*# sourceMappingURL=main.css.map */
