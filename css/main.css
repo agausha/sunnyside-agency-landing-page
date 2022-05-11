@@ -35,6 +35,7 @@ body {
   font-family: "Fraunces", sans-serif;
   color: white;
   text-transform: uppercase;
+  letter-spacing: 0.7rem;
 }
 
 .header {
