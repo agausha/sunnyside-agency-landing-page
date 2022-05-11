@@ -22,6 +22,7 @@ body {
 
 .showcase {
   height: 50vh;
+  position: absolute;
 }
 
 .header {
