@@ -60,6 +60,7 @@
   cursor: pointer;
 
   &__line {
+    display: block;
     height: 0.3rem;
   }
 }
