@@ -99,4 +99,8 @@ body {
   border-radius: 0;
   cursor: pointer;
 }
+
+.hamburger__line {
+  height: 0.3rem;
+}
 /*# sourceMappingURL=main.css.map */
