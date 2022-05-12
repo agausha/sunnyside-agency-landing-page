@@ -97,5 +97,6 @@ body {
 .hamburger {
   background: none;
   border-radius: 0;
+  cursor: pointer;
 }
 /*# sourceMappingURL=main.css.map */
