@@ -18,5 +18,7 @@
       position: relative
   }
 
-  &__header {}
+  &__header {
+      font-size: $fs-xxlarge;
+  }
 }
