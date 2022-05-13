@@ -19,7 +19,8 @@
   }
 
   &__header {
-      font-size: $fs-xxlarge;
       font-family: $font-display;
+      font-size: $fs-xxlarge;
+      font-weight: 900;
   }
 }
