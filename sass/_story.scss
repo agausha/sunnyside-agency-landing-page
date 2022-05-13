@@ -9,5 +9,7 @@
       }
   }
 
-  &__single-sub {}
+  &__single-sub {
+      display: flex;
+  }
 }

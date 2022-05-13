@@ -119,4 +119,10 @@ body {
       -ms-flex-direction: row-reverse;
           flex-direction: row-reverse;
 }
+
+.story__single-sub {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
 /*# sourceMappingURL=main.css.map */
