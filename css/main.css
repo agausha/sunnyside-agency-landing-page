@@ -154,4 +154,8 @@ body {
   left: 0;
   right: 0;
 }
+
+.story__picture img {
+  height: 100%;
+}
 /*# sourceMappingURL=main.css.map */
