@@ -125,4 +125,8 @@ body {
   display: -ms-flexbox;
   display: flex;
 }
+
+.story__item {
+  position: relative;
+}
 /*# sourceMappingURL=main.css.map */
