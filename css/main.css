@@ -147,5 +147,6 @@ body {
 .story__details {
   font-size: 1.5rem;
   margin: auto;
+  max-width: 45%;
 }
 /*# sourceMappingURL=main.css.map */
