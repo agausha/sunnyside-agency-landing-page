@@ -68,6 +68,8 @@
       text-decoration: none;
       text-transform: uppercase;
 
-      &::after {}
+      &::after {
+          content: "";
+      }
   }
 }

@@ -178,4 +178,8 @@ body {
   text-decoration: none;
   text-transform: uppercase;
 }
+
+.story__cta::after {
+  content: "";
+}
 /*# sourceMappingURL=main.css.map */
