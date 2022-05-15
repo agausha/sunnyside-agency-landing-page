@@ -57,5 +57,7 @@
     }
   }
 
-  &__cta {}
+  &__cta {
+      font-family: $font-display;
+  }
 }

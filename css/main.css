@@ -166,4 +166,8 @@ body {
 .story__text:not(:last-child) {
   color: #818498;
 }
+
+.story__cta {
+  font-family: "Fraunces", sans-serif;
+}
 /*# sourceMappingURL=main.css.map */
