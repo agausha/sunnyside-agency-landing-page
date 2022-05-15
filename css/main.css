@@ -158,4 +158,8 @@ body {
 .story__picture img {
   height: 100%;
 }
+
+.story__text {
+  font-size: 1.8rem;
+}
 /*# sourceMappingURL=main.css.map */

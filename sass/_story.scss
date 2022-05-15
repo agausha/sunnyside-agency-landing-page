@@ -49,5 +49,7 @@
     }
   }
 
-  &__text {}
+  &__text {
+    font-size: $fs-xxmedium;
+  }
 }
