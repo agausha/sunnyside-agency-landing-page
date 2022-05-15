@@ -194,4 +194,8 @@ body {
 .story__cta--yellow::after {
   background: #fad400;
 }
+
+.story__cta--pink::after {
+  background: #fe7867;
+}
 /*# sourceMappingURL=main.css.map */

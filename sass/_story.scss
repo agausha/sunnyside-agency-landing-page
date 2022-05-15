@@ -87,7 +87,9 @@
       }
 
       &--pink {
-          &::after {}
+          &::after {
+              background: $color-primary-soft-red;
+          }
       }
   }
 }
