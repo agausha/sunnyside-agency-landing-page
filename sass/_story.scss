@@ -51,5 +51,9 @@
 
   &__text {
     font-size: $fs-xxmedium;
+
+    &:not(:last-child) {
+        
+    }
   }
 }
