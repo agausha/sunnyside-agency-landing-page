@@ -161,6 +161,7 @@ body {
 
 .story__text {
   font-size: 1.8rem;
+  margin-bottom: 4rem;
 }
 
 .story__text:not(:last-child) {
