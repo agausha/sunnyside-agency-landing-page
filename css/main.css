@@ -181,5 +181,6 @@ body {
 
 .story__cta::after {
   content: "";
+  border-radius: 0.5rem;
 }
 /*# sourceMappingURL=main.css.map */
