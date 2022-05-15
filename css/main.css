@@ -162,4 +162,8 @@ body {
 .story__text {
   font-size: 1.8rem;
 }
+
+.story__text:not(:last-child) {
+  color: #818498;
+}
 /*# sourceMappingURL=main.css.map */
