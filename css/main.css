@@ -183,5 +183,6 @@ body {
   content: "";
   border-radius: 0.5rem;
   display: block;
+  position: absolute;
 }
 /*# sourceMappingURL=main.css.map */
