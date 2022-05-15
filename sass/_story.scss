@@ -81,7 +81,9 @@
       }
 
       &--yellow {
-          &::after {}
+          &::after {
+              background: $color-primary-yellow;
+          }
       }
   }
 }

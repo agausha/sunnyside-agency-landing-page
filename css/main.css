@@ -190,4 +190,8 @@ body {
   width: 100%;
   opacity: 0.3;
 }
+
+.story__cta--yellow::after {
+  background: #fad400;
+}
 /*# sourceMappingURL=main.css.map */
