@@ -67,5 +67,7 @@
       position: relative;
       text-decoration: none;
       text-transform: uppercase;
+
+      &::after {}
   }
 }
