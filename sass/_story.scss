@@ -80,6 +80,8 @@
           opacity: 0.3;
       }
 
-      &--yellow {}
+      &--yellow {
+          &::after {}
+      }
   }
 }
