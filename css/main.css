@@ -219,4 +219,8 @@ body {
 .testimonials__item {
   width: 25%;
 }
+
+.testimonials__title {
+  font-family: "Fraunces", sans-serif;
+}
 /*# sourceMappingURL=main.css.map */

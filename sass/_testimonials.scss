@@ -14,5 +14,7 @@
         width: 25%;
     }
 
-    &__title {}
+    &__title {
+        font-family: $font-display;
+    }
 }
