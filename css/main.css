@@ -229,4 +229,8 @@ body {
   letter-spacing: 0.5rem;
   margin: 15rem 0 8rem 0;
 }
+
+.testimonials__photo {
+  display: block;
+}
 /*# sourceMappingURL=main.css.map */
