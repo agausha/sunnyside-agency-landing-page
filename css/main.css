@@ -215,4 +215,8 @@ body {
       -ms-flex-pack: center;
           justify-content: center;
 }
+
+.testimonials__item {
+  width: 25%;
+}
 /*# sourceMappingURL=main.css.map */
