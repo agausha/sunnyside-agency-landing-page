@@ -198,4 +198,8 @@ body {
 .story__cta--pink::after {
   background: #fe7867;
 }
+
+.testimonials {
+  background: white;
+}
 /*# sourceMappingURL=main.css.map */
