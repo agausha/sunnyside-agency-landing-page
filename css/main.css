@@ -203,4 +203,10 @@ body {
   background: white;
   text-align: center;
 }
+
+.testimonials__section {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
 /*# sourceMappingURL=main.css.map */

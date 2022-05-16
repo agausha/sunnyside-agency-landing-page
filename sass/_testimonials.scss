@@ -4,5 +4,7 @@
     background: $color-neutral-white;
     text-align: center;
 
-    &__section {}
+    &__section {
+        display: flex;
+    }
 }
