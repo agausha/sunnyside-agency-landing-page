@@ -42,6 +42,8 @@ body {
 .gallery {
   display: -ms-grid;
   display: grid;
+  -ms-grid-columns: (1fr)[4];
+      grid-template-columns: repeat(4, 1fr);
 }
 
 .header {
