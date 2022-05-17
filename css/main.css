@@ -244,4 +244,8 @@ body {
   line-height: 1.8;
   margin: 5rem 0 5rem 0;
 }
+
+.testimonials__user-name {
+  font-size: 1.7rem;
+}
 /*# sourceMappingURL=main.css.map */

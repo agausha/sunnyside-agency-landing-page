@@ -39,5 +39,7 @@
         margin: 5rem 0 5rem 0;
     }
 
-    &__user-name {}
+    &__user-name {
+        font-size: $fs-xmedium-1;
+    }
 }
