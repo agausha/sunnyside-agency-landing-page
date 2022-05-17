@@ -45,5 +45,7 @@
         font-weight: 900;
     }
 
-    &__user-position {}
+    &__user-position {
+        color: $color-neutral-grayish-blue;
+    }
 }
