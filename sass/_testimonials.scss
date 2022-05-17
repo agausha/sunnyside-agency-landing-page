@@ -32,5 +32,7 @@
         border-radius: 5rem;
     }
 
-    &__text {}
+    &__text {
+        font-size: $fs-xmedium;
+    }
 }
