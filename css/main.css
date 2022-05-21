@@ -46,11 +46,14 @@ body {
       grid-template-columns: repeat(4, 1fr);
 }
 
+.footer {
+  background-color: #86dac6;
+}
+
 .header {
   height: 100vh;
   background: url(../images/desktop/image-header.jpg) no-repeat center center/cover;
   padding-top: 4rem;
-  max-width: 100vw;
 }
 
 .header__content {
