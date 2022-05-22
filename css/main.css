@@ -48,6 +48,10 @@ body {
   margin-top: 15rem;
 }
 
+.gallery img {
+  height: 100%;
+}
+
 .footer {
   background-color: #86dac6;
   padding: 5rem;
