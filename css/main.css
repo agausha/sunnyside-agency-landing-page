@@ -184,6 +184,10 @@ body {
   right: 0;
 }
 
+.story__picture {
+  width: 50%;
+}
+
 .story__picture img {
   height: 100%;
 }
