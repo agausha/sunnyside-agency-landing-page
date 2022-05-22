@@ -5,6 +5,7 @@
   padding: 0;
   -webkit-box-sizing: inherit;
           box-sizing: inherit;
+  max-width: 100%;
   border: 0;
 }
 
