@@ -24,7 +24,9 @@
     margin: 2rem;
     text-decoration: none;
 
-    &:hover {}
+    &:hover {
+      color: $color-neutral-white;
+    }
   }
   
 }
