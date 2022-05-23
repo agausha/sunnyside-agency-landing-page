@@ -86,6 +86,12 @@ body {
   color: white;
 }
 
+.footer__social {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 .header {
   height: 100vh;
   background: url(../images/desktop/image-header.jpg) no-repeat center center/cover;
