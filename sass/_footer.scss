@@ -41,7 +41,9 @@
   &__icon {
     padding:  1.5rem;
     &:hover {
-      path {}
+      path {
+        fill: $color-neutral-white;
+      }
     }
   }
   
