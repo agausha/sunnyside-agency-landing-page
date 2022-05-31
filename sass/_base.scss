@@ -35,7 +35,11 @@ $fs-xxlarge: 4rem;
 $fs-larger: 5rem;
 
 /////////////////////////////////////////
-// UNIVERSAL RESET
+//RESPONSIVE BREAKPOINTS
+$bp-largest: 1100px;
+
+/////////////////////////////////////////
+// CSS UNIVERSAL RESET
 *,
 *::before,
 *::after {
@@ -61,5 +65,5 @@ body {
 // MEDIA QUERIES
 
 @media only screen and (max-width: $bp-largest) {
-   
+
 }
