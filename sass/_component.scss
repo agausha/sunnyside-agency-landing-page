@@ -32,7 +32,9 @@
 // MEDIA QUERIES
 .showcase {
     @media only screen and (max-width: $bp-large) {
-       
+       &__heading {
+           
+       }
       }
 }
 
