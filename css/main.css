@@ -57,6 +57,12 @@ body {
   height: 100%;
 }
 
+@media only screen and (max-width: 900px) {
+  .showcase__heading {
+    margin-top: 2rem;
+  }
+}
+
 .footer {
   background-color: #86dac6;
   padding: 5rem;
