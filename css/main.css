@@ -21,6 +21,12 @@ body {
   line-height: 1.6;
 }
 
+@media only screen and (max-width: 1100px) {
+  html {
+    font-size: 50%;
+  }
+}
+
 .showcase {
   height: 50vh;
   position: absolute;
