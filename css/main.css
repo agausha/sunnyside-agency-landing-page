@@ -285,6 +285,12 @@ body {
   background: #fe7867;
 }
 
+@media only screen and (max-width: 900px) {
+  .story__header {
+    font-size: 3.5rem;
+  }
+}
+
 .testimonials {
   background: white;
   text-align: center;
