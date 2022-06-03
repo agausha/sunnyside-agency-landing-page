@@ -294,6 +294,12 @@ body {
   }
 }
 
+@media only screen and (max-width: 750px) {
+  .story__detail {
+    width: 80%;
+  }
+}
+
 .testimonials {
   background: white;
   text-align: center;
