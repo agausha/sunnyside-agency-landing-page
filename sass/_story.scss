@@ -31,7 +31,7 @@
       padding: 12rem;
   }
 
-  &__details {
+  &__detail {
       margin: auto;
       max-width: 55%;
       text-align: center;
@@ -108,5 +108,7 @@
 }
 
 @media only screen and (max-width: $bp-medium) {
-    .story {}
+    .story {
+
+    }
 } 
