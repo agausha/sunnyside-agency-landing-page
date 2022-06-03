@@ -289,6 +289,9 @@ body {
   .story__header {
     font-size: 3.5rem;
   }
+  .story__content {
+    padding: 5rem;
+  }
 }
 
 .testimonials {
