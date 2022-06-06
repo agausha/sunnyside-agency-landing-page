@@ -80,6 +80,7 @@
     background: $color-neutral-white;
     font-size: $fs-large;
     display: none;
+    position: absolute;
   }
 
   @media only screen and (max-width: $bp-largest) {

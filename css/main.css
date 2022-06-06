@@ -201,6 +201,7 @@ body {
     background: white;
     font-size: 2.5rem;
     display: none;
+    position: absolute;
   }
 }
 
