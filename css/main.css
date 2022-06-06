@@ -199,6 +199,7 @@ body {
 @media screen and (max-width: 650px) {
   .navbar {
     background: white;
+    font-size: 2.5rem;
   }
 }
 

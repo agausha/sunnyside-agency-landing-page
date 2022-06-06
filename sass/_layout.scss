@@ -78,6 +78,7 @@
 .navbar {
   @media screen and (max-width: $bp-smaller) {
     background: $color-neutral-white;
+    font-size: $fs-large;
   }
 
   @media only screen and (max-width: $bp-largest) {
