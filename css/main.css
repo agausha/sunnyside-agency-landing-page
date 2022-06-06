@@ -215,6 +215,7 @@ body {
     height: 2rem;
     width: 2rem;
     position: absolute;
+    top: -2rem;
   }
 }
 
