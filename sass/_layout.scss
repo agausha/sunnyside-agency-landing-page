@@ -124,5 +124,7 @@
     display: none;
   }
 
-  @media screen and (max-width: $bp-smaller) {}
+  @media screen and (max-width: $bp-smaller) {
+    &__line {}
+  }
 }
