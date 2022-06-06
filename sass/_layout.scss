@@ -75,10 +75,12 @@
   }
 }
 
+.navbar {
 @media only screen and (max-width: $bp-largest) {
-  .navbar {
     &__item {
       margin: 1.5rem;
     }
   }
+
+  @media screen and (max-width: $bp-smaller){}
 }
