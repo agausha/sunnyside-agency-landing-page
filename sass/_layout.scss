@@ -123,4 +123,6 @@
   @media screen and (min-width: $bp-smallest) {
     display: none;
   }
+
+  @media screen and (max-width: $bp-smaller) {}
 }
