@@ -76,9 +76,11 @@
 }
 
 .navbar {
-  @media screen and (max-width: $bp-smaller){}
+  @media screen and (max-width: $bp-smaller) {
+    background: $color-neutral-white;
+  }
 
-@media only screen and (max-width: $bp-largest) {
+  @media only screen and (max-width: $bp-largest) {
     &__item {
       margin: 1.5rem;
     }
