@@ -125,6 +125,8 @@
   }
 
   @media screen and (max-width: $bp-smaller) {
-    &__line {}
+    &__line {
+      display: block;
+    }
   }
 }
