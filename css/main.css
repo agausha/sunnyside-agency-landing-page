@@ -212,6 +212,7 @@ body {
   .navbar::before {
     content: "";
     background: white;
+    height: 2rem;
   }
 }
 
