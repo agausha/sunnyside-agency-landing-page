@@ -216,6 +216,7 @@ body {
     width: 2rem;
     position: absolute;
     top: -2rem;
+    right: 0;
   }
 }
 
