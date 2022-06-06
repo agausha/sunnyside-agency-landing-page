@@ -238,6 +238,12 @@ body {
   }
 }
 
+@media screen and (min-width: 500px) {
+  .hamburger {
+    display: none;
+  }
+}
+
 .story__single {
   display: -webkit-box;
   display: -ms-flexbox;
