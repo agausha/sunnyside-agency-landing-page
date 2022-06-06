@@ -202,6 +202,12 @@ body {
   }
 }
 
+@media screen and (max-width: 650px) {
+  .navbar__link {
+    color: #0b0a0a;
+  }
+}
+
 .story__single {
   display: -webkit-box;
   display: -ms-flexbox;
