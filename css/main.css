@@ -203,9 +203,12 @@ body {
 }
 
 @media screen and (max-width: 650px) {
-  .navbar__link {
+  .navbar__link, .navbar__link--btn {
     color: #0b0a0a;
     font-size: 2.5rem;
+  }
+  .navbar__link--btn {
+    background: #fad400;
   }
 }
 

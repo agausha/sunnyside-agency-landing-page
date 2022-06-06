@@ -83,11 +83,13 @@
   }
 
   @media screen and (max-width: $bp-smaller){
-    &__link {
+    &__link, &__link--btn {
       color: $color-primary-dark;
       font-size: $fs-large;
     }
 
-    &__link--btn {}
+    &__link--btn {
+      background: $color-primary-yellow;
+    }
   }
 }
