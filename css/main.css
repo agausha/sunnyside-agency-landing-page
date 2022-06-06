@@ -213,6 +213,7 @@ body {
     content: "";
     background: white;
     height: 2rem;
+    width: 2rem;
   }
 }
 
