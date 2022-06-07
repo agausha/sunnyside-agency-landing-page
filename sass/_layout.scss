@@ -26,13 +26,16 @@
 .navbar {
   display: flex;
 
-  &__item, &__link {
+  &__item {
     text-decoration: none;
     list-style: none;
     font-size: $fs-medium;
     color: $color-neutral-white;
     margin: 2rem;
   }
+
+  &__link {}
+
 
   &__link--btn {
     text-transform: uppercase;

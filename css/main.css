@@ -151,7 +151,7 @@ body {
   display: flex;
 }
 
-.navbar__item, .navbar__link {
+.navbar__item {
   text-decoration: none;
   list-style: none;
   font-size: 1.5rem;
