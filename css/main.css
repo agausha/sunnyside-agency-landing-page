@@ -155,8 +155,11 @@ body {
   text-decoration: none;
   list-style: none;
   font-size: 1.5rem;
-  color: white;
   margin: 2rem;
+}
+
+.navbar__link {
+  color: white;
 }
 
 .navbar__link--btn {

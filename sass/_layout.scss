@@ -30,11 +30,12 @@
     text-decoration: none;
     list-style: none;
     font-size: $fs-medium;
-    color: $color-neutral-white;
     margin: 2rem;
   }
 
-  &__link {}
+  &__link {
+    color: $color-neutral-white;
+  }
 
 
   &__link--btn {
