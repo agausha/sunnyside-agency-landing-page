@@ -27,7 +27,6 @@
   display: flex;
 
   &__item {
-    text-decoration: none;
     list-style: none;
     font-size: $fs-medium;
     margin: 2rem;
@@ -35,6 +34,7 @@
 
   &__link {
     color: $color-neutral-white;
+    text-decoration: none;
   }
 
 
