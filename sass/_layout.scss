@@ -26,6 +26,8 @@
 .navbar {
   display: flex;
 
+  &__active {}
+
   &__item {
     list-style: none;
     font-size: $fs-medium;
