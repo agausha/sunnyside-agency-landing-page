@@ -217,6 +217,7 @@ body {
     text-align: center;
     top: 50px;
     width: 90%;
+    z-index: 10;
   }
   .navbar::before {
     content: "";
