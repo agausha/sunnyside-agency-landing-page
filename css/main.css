@@ -151,6 +151,10 @@ body {
   display: flex;
 }
 
+.navbar__active {
+  display: block;
+}
+
 .navbar__item {
   list-style: none;
   font-size: 1.5rem;
