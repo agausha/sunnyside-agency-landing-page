@@ -41,4 +41,6 @@
 }
 
 // GALLERY
-.gallery {}
+.gallery {
+  @media only screen and (max-width: $bp-smaller) {}
+}
