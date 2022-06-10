@@ -42,5 +42,7 @@
 
 // GALLERY
 .gallery {
-  @media only screen and (max-width: $bp-smaller) {}
+  @media only screen and (max-width: $bp-smaller) {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }

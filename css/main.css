@@ -63,6 +63,13 @@ body {
   }
 }
 
+@media only screen and (max-width: 650px) {
+  .gallery {
+    -ms-grid-columns: (1fr)[2];
+        grid-template-columns: repeat(2, 1fr);
+  }
+}
+
 .footer {
   background-color: #86dac6;
   padding: 5rem;
