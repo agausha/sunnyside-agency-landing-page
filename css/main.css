@@ -363,6 +363,12 @@ body {
   background: #fe7867;
 }
 
+@media screen and (max-width: 650px) {
+  .story__single {
+    font-size: 2.5rem;
+  }
+}
+
 @media only screen and (max-width: 900px) {
   .story__header {
     font-size: 3.5rem;

@@ -97,7 +97,9 @@
 // MEDIA QUERIES
 .story {
     @media screen and (max-width: $bp-smaller) {
-        &__single {}
+        &__single {
+            font-size: $fs-large;
+        }
     }
 
     @media only screen and (max-width: $bp-large) {
