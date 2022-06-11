@@ -100,7 +100,9 @@
         &__single {
             font-size: $fs-large;
             flex-direction: column-reverse;
-            &:nth-child(even) {}
+            &:nth-child(even) {
+                flex-direction: column-reverse;
+            }
         }
     }
 
