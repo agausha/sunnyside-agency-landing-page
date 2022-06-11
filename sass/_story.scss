@@ -96,6 +96,8 @@
 /////////////////////////////////////////////////
 // MEDIA QUERIES
 .story {
+    @media screen and (max-width: $bp-smaller) {}
+
     @media only screen and (max-width: $bp-large) {
         &__header {
             font-size: $fs-xlarge;
