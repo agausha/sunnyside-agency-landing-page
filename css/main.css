@@ -366,6 +366,10 @@ body {
 @media screen and (max-width: 650px) {
   .story__single {
     font-size: 2.5rem;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+        -ms-flex-direction: column-reverse;
+            flex-direction: column-reverse;
   }
 }
 
