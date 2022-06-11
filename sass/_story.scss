@@ -104,13 +104,16 @@
                 flex-direction: column-reverse;
             }
         }
-            &__picture,
-            &__content,
-            &__item {
-                width: 100%;
-                text-align: center;
-        }
+
+        &__picture,
+        &__content,
+        &__item {
+            width: 100%;
+            text-align: center;
     }
+
+    &__single-sub {}
+}
 
     @media only screen and (max-width: $bp-large) {
         &__header {
