@@ -112,7 +112,9 @@
             text-align: center;
     }
 
-    &__single-sub {}
+    &__single-sub {
+        flex-direction: column;
+    }
 }
 
     @media only screen and (max-width: $bp-large) {
