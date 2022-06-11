@@ -96,7 +96,9 @@
 /////////////////////////////////////////////////
 // MEDIA QUERIES
 .story {
-    @media screen and (max-width: $bp-smaller) {}
+    @media screen and (max-width: $bp-smaller) {
+        &__single {}
+    }
 
     @media only screen and (max-width: $bp-large) {
         &__header {
