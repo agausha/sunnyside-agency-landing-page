@@ -377,8 +377,9 @@ body {
         -ms-flex-direction: column-reverse;
             flex-direction: column-reverse;
   }
-  .story__single__picture, .story__single__content, .story__single__item {
+  .story__picture, .story__content, .story__item {
     width: 100%;
+    text-align: center;
   }
 }
 
