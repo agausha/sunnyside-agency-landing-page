@@ -122,6 +122,9 @@
             font-size: $fs-xlarge;
         }
 
+    }
+
+    @media only screen and (max-width: $bp-larger) {
         &__content {
             padding: 5rem;
         }
