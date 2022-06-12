@@ -488,5 +488,8 @@ body {
   .testimonials__item {
     width: 100%;
   }
+  .testimonials__text {
+    padding: 0 8rem;
+  }
 }
 /*# sourceMappingURL=main.css.map */
