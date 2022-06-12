@@ -54,4 +54,6 @@
 
 /////////////////////////////////////////////////
 //MEDIA QUERIES
-@media screen and (max-width: $bp-smaller) {}
+@media screen and (max-width: $bp-smaller) {
+    .testimonials {}
+}
