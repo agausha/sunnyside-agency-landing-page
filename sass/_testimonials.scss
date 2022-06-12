@@ -55,5 +55,7 @@
 /////////////////////////////////////////////////
 //MEDIA QUERIES
 @media screen and (max-width: $bp-smaller) {
-    .testimonials {}
+    .testimonials {
+        &__section {}
+    }
 }
