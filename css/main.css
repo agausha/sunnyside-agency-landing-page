@@ -67,6 +67,7 @@ body {
   .gallery {
     -ms-grid-columns: (1fr)[2];
         grid-template-columns: repeat(2, 1fr);
+    margin-top: 7rem;
   }
 }
 
