@@ -493,5 +493,8 @@ body {
     padding: 0 8rem;
     font-size: 1.7rem;
   }
+  .testimonials__user-position {
+    margin-bottom: 5rem;
+  }
 }
 /*# sourceMappingURL=main.css.map */
