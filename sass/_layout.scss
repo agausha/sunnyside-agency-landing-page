@@ -79,6 +79,9 @@
 
 /////////////////////////////////////////////////
 // MEDIA QUERIES
+@media only screen and (max-width: $bp-smaller) {
+}
+
 @media only screen and (max-width: $bp-largest) {
   .logo {
     margin-left: 2.5rem;
