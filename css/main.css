@@ -409,6 +409,12 @@ body {
   }
 }
 
+@media only screen and (max-width: 750px) {
+  .story__header {
+    font-size: 2.5rem;
+  }
+}
+
 @media only screen and (max-width: 950px) {
   .story__content {
     padding: 7.8rem;
