@@ -361,6 +361,8 @@ body {
   height: 10px;
   width: 100%;
   opacity: 0.3;
+  -webkit-transition: all 0.8s ease;
+  transition: all 0.8s ease;
   z-index: -1;
 }
 
