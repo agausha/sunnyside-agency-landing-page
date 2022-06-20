@@ -266,10 +266,8 @@ body {
   }
 }
 
-@media screen and (max-width: 650px) {
-  .hamburger__line {
-    display: block;
-  }
+.hamburger__line {
+  display: block;
 }
 
 .story__single {
