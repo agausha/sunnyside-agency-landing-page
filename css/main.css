@@ -381,6 +381,7 @@ body {
 
 .story__cta--pink:hover::after {
   height: 10px;
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 650px) {
