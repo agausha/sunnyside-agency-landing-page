@@ -370,6 +370,7 @@ body {
 
 .story__cta--yellow:hover::after {
   height: 10px;
+  opacity: 0.8;
 }
 
 .story__cta--pink::after {
