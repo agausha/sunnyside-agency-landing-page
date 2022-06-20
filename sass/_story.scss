@@ -168,7 +168,9 @@
     
 
     @media screen and (max-width: $bp-smaller) {
-       &__text {}
+       &__text {
+        font-size: $fs-medium;
+       }
     }
 
 }
