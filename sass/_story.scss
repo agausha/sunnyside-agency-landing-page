@@ -148,7 +148,9 @@
         }
     }
 
-        @media only screen and (max-width: $bp-small) {
+    @media only screen and (max-width: $bp-medium-1) {}
+
+    @media only screen and (max-width: $bp-small) {
             &__text {
             font-size: $fs-small;
             }
