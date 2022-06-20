@@ -379,6 +379,10 @@ body {
   background: #fe7867;
 }
 
+.story__cta--pink:hover::after {
+  height: 10px;
+}
+
 @media screen and (max-width: 650px) {
   .story__single {
     font-size: 2.5rem;
