@@ -427,6 +427,12 @@ body {
   }
 }
 
+@media only screen and (max-width: 800px) {
+  .story__text {
+    font-size: 1.3rem;
+  }
+}
+
 @media only screen and (max-width: 750px) {
   .story__text {
     font-size: 1.2rem;
