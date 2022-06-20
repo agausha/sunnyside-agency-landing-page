@@ -445,12 +445,6 @@ body {
   }
 }
 
-@media screen and (max-width: 650px) {
-  .story {
-    margin-bottom: 2rem;
-  }
-}
-
 .testimonials {
   background: white;
   text-align: center;
