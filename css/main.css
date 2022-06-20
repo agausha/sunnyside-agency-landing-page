@@ -361,6 +361,7 @@ body {
   height: 0.9rem;
   width: 100%;
   opacity: 0.3;
+  z-index: -1;
 }
 
 .story__cta--yellow::after {
