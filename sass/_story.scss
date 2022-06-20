@@ -140,11 +140,14 @@
         &__detail {
             width: 80%;
         }
+    }
 
         @media only screen and (max-width: $bp-small) {
+            &__text {
             font-size: $fs-medium;
+            }
         }
-    }
+    
 
     @media screen and (max-width: $bp-smaller) {
         margin-bottom: 2rem;
