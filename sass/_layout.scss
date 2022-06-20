@@ -88,12 +88,6 @@
   }
 }
 
-@media only screen and (max-width: $bp-largest) {
-  .logo {
-    margin-left: 2.5rem;
-  }
-}
-
 .navbar {
   @media screen and (max-width: $bp-smaller) {
     background: $color-neutral-white;
