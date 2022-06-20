@@ -85,7 +85,9 @@
               background: $color-primary-yellow;
           }
 
-          &:hover {}
+          &:hover {
+            &::after {}
+          }
           
       }
 
