@@ -134,7 +134,7 @@
 
 // HAMBURGER
 .hamburger {
-  @media screen and (min-width: $bp-smallest) {
+  @media screen and (min-width: $bp-smaller) {
     display: none;
   }
 

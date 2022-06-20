@@ -260,7 +260,7 @@ body {
   }
 }
 
-@media screen and (min-width: 500px) {
+@media screen and (min-width: 650px) {
   .hamburger {
     display: none;
   }
