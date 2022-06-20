@@ -200,6 +200,7 @@ body {
   border-radius: 0;
   width: 35px;
   cursor: pointer;
+  margin: 2rem;
 }
 
 .hamburger__line {
