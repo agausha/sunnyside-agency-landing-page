@@ -403,6 +403,12 @@ body {
   }
 }
 
+@media only screen and (max-width: 800px) {
+  .story__header {
+    margin: 1rem;
+  }
+}
+
 @media only screen and (max-width: 950px) {
   .story__content {
     padding: 7.8rem;
