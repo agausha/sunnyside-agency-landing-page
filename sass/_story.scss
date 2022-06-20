@@ -86,7 +86,9 @@
           }
 
           &:hover {
-            &::after {}
+            &::after {
+                height: 10px;
+            }
           }
           
       }

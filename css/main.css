@@ -368,6 +368,10 @@ body {
   background: #fad400;
 }
 
+.story__cta--yellow:hover::after {
+  height: 10px;
+}
+
 .story__cta--pink::after {
   background: #fe7867;
 }
