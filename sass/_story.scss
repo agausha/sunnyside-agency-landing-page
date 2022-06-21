@@ -134,7 +134,9 @@
         }
 
         &__images-1 {
-            img {}
+            img {
+                display: none;
+            }
         }
 }
 
