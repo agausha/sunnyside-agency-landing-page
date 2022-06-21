@@ -411,6 +411,9 @@ body {
   .story__images-1 img {
     display: none;
   }
+  .story__images-2 {
+    height: 60rem;
+  }
   .story__images-2 img {
     display: none;
   }
