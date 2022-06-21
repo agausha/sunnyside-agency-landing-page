@@ -414,6 +414,7 @@ body {
   .story__images-2 {
     height: 60rem;
     background: url(../images/mobile/image-photography.jpg) no-repeat center center;
+    background-size: 100% 100%;
   }
   .story__images-2 img {
     display: none;
