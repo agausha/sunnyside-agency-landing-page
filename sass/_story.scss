@@ -193,7 +193,9 @@
     }
 
     @media screen and (max-width: $bp-smaller) {
-        &__detail {}
+        &__detail {
+            max-width: 80%;
+        }
     }
 
     @media only screen and (max-width: $bp-medium-1) {
