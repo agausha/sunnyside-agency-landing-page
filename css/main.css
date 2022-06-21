@@ -413,7 +413,7 @@ body {
   }
   .story__images-2 {
     height: 60rem;
-    background: url(../images/mobile/image-photography.jpg);
+    background: url(../images/mobile/image-photography.jpg) no-repeat;
   }
   .story__images-2 img {
     display: none;
