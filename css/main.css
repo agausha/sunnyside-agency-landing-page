@@ -413,6 +413,7 @@ body {
   }
   .story__images-2 {
     height: 60rem;
+    background: url(../images/mobile/image-photography.jpg);
   }
   .story__images-2 img {
     display: none;
