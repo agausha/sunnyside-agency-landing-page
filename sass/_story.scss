@@ -133,7 +133,9 @@
             flex-direction: column;
         }
 
-        &__images-1 {}
+        &__images-1 {
+            img {}
+        }
 }
 
     @media only screen and (max-width: $bp-large) {
