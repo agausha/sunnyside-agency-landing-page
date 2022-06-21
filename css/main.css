@@ -405,7 +405,7 @@ body {
   }
   .story__images-1 {
     height: 60rem;
-    background: url(../images/mobile/image-graphic-design.jpg);
+    background: url(../images/mobile/image-graphic-design.jpg) no-repeat;
   }
   .story__images-1 img {
     display: none;
