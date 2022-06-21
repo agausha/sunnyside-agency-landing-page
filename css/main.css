@@ -403,6 +403,9 @@ body {
         -ms-flex-direction: column;
             flex-direction: column;
   }
+  .story__images-1 {
+    height: 60rem;
+  }
   .story__images-1 img {
     display: none;
   }
