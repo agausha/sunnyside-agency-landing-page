@@ -45,7 +45,9 @@
     }
   }
 
-  @media only screen and (max-width: $bp-smaller) {}
+  @media only screen and (max-width: $bp-smaller) {
+    &__heading {}
+  }
 }
 
 // GALLERY
