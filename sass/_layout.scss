@@ -27,10 +27,6 @@
 .navbar {
   display: flex;
 
-  &__active {
-    display: block;
-  }
-
   &__item {
     list-style: none;
     font-size: $fs-medium;
@@ -111,6 +107,10 @@
       top: -2rem;
       right: 0;
       clip-path: polygon(100% 0, 0 100%, 100% 100%);
+    }
+
+    &__active {
+     
     }
   }
 
