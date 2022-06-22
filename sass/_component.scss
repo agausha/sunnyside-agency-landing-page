@@ -40,7 +40,9 @@
   }
 
   @media only screen and (max-width: $bp-medium-1) {
-    &__heading {}
+    &__heading {
+      font-size: $fs-xlarge;
+    }
   }
 }
 
