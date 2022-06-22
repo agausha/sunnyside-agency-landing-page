@@ -59,7 +59,7 @@ body {
 
 @media only screen and (max-width: 900px) {
   .showcase__heading {
-    margin-top: 2rem;
+    margin-bottom: 3rem;
   }
 }
 
