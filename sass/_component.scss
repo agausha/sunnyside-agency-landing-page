@@ -44,6 +44,8 @@
       font-size: $fs-xlarge;
     }
   }
+
+  @media only screen and (max-width: $bp-smaller) {}
 }
 
 // GALLERY
